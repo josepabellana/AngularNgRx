@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+    --primary-bg-color:  #fffafbff;
+  }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: auto;
+    color: var(--text-color);
+    background-color: var(--primary-bg-color);
+}
