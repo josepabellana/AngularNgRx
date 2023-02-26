@@ -3,7 +3,7 @@
 :root {
     --primary-bg-color:  #fffafbff;
     --shadow-color: rgb(181, 184, 171); 
-  }
+}
 
 *{
     margin: 0px;
@@ -16,3 +16,4 @@ body {
     color: var(--text-color);
     background-color: var(--primary-bg-color);
 }
+
